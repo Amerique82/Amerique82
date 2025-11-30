@@ -1,4 +1,4 @@
-# Hi, there
+# 🌺 Aloha!
 
 <div align="center">
   
@@ -10,14 +10,14 @@
 
 ---
 
-## About This Fabulous Human: Me 😄
+## About This Fabulous Human, Me 😄
 
 ```javascript
 const amerique = {
     pronouns: "she/her",
     code: ["HTML", "CSS", "JavaScript", "Python"],
     currentMood: "✨ Caffeinated and inspired ✨",
-    lifePhilosophy: "If it's not dramatic, is it even worth doing?",
+    lifePhilosophy: "What would you do if you weren’t afraid?",
     askMeAbout: ["web design", "creative writing", "the perfect espresso", "why Comic Sans is a crime"],
     funFact: "I debug code and life drama with equal passion"
 };
@@ -25,8 +25,7 @@ const amerique = {
 
 ## Featured Projects
 
-Coming soon... because every good drama queen knows how to make an entrance! 🎭
-
+Dive into my GitHub! There’s a lot in there. After all, every drama queen knows how to make an entrance 🎭
 
 ## What I'm Up To
 
@@ -34,7 +33,7 @@ Coming soon... because every good drama queen knows how to make an entrance! �
 - ✍️ **Blogging** about tech, life, and everything in between
 - 🔥 **Learning** new frameworks (and how to handle constructive criticism gracefully)
 - 💡 **Experimenting** with code like it's a chemistry set
-- 🎪 **Bringing drama** to git commit messages (they deserve personality!)
+
 
 ## My Vibe
 
