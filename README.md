@@ -1,4 +1,4 @@
-# Hi, there ✨
+# Hi, there
 
 <div align="center">
   
@@ -23,6 +23,11 @@ const amerique = {
 };
 ```
 
+## Featured Projects
+
+Coming soon... because every good drama queen knows how to make an entrance! 🎭
+
+
 ## What I'm Up To
 
 - 🎨 **Creating** gorgeous websites that make people go "ooooh"
@@ -41,10 +46,6 @@ const amerique = {
 │  Drama   ████████████████████ 100% │
 └─────────────────────────────────────┘
 ```
-
-## Featured Projects
-
-Coming soon... because every good drama queen knows how to make an entrance! 🎭
 
 ## 📱 Let's Connect
 
