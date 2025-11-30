@@ -1,4 +1,4 @@
-# 💅 Hello, darlings ✨
+# Hi, there ✨
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎭 About This Fabulous Human: Me 😄
+## About This Fabulous Human: Me 😄
 
 ```javascript
 const amerique = {
@@ -23,7 +23,7 @@ const amerique = {
 };
 ```
 
-## 🌟 What I'm Up To
+## What I'm Up To
 
 - 🎨 **Creating** gorgeous websites that make people go "ooooh"
 - ✍️ **Blogging** about tech, life, and everything in between
@@ -31,7 +31,7 @@ const amerique = {
 - 💡 **Experimenting** with code like it's a chemistry set
 - 🎪 **Bringing drama** to git commit messages (they deserve personality!)
 
-## 💖 My Vibe
+## My Vibe
 
 ```
 ┌─────────────────────────────────────┐
@@ -42,7 +42,7 @@ const amerique = {
 └─────────────────────────────────────┘
 ```
 
-## 🎪 Featured Projects
+## Featured Projects
 
 Coming soon... because every good drama queen knows how to make an entrance! 🎭
 
