@@ -4,7 +4,7 @@
   
 ### Geek 🤓 • Creative 🎨 • Blogger ✍️ • Drama Queen 👑
 
-*Living life in beta version, debugging my existence one dramatic moment at a time*
+*Living life in 3.0 version, debugging my existence one dramatic moment at a time*
 
 </div>
 
@@ -26,13 +26,6 @@ const amerique = {
 ## Featured Projects
 
 Dive into my GitHub! There’s a lot in there. After all, every drama queen knows how to make an entrance 🎭
-
-## What I'm Up To
-
-- 🎨 **Creating** gorgeous websites that make people go "ooooh"
-- ✍️ **Blogging** about tech, life, and everything in between
-- 🔥 **Learning** new frameworks (and how to handle constructive criticism gracefully)
-- 💡 **Experimenting** with code like it's a chemistry set
 
 
 ## My Vibe
