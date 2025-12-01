@@ -4,7 +4,7 @@
   
 ### Geek 🤓 • Creative 🎨 • Blogger ✍️ • Drama Queen 👑
 
-*Living life in 3.0 version, debugging my existence one dramatic moment at a time*
+*Living life in beta and designing experiences that actually work.*
 
 </div>
 
@@ -14,12 +14,11 @@
 
 ```javascript
 const amerique = {
-    pronouns: "she/her",
-    code: ["HTML", "CSS", "JavaScript", "Python"],
-    currentMood: "✨ Caffeinated and inspired ✨",
-    lifePhilosophy: "What would you do if you weren’t afraid?",
-    askMeAbout: ["web design", "creative writing", "the perfect espresso", "why Comic Sans is a crime"],
-    funFact: "I debug code and life drama with equal passion"
+  pronouns: "she/her",
+  focus: ["Web Design", "Front-End Dev", "UX/UI", "Digital Strategy"],
+  stack: ["HTML", "CSS", "JavaScript", "Python (learning)"],
+  currentlyBuilding: "My portfolio, my skills, my empire",
+  motto: "What would you do if you weren’t afraid?",
 };
 ```
 
@@ -49,7 +48,7 @@ Dive into my GitHub! There’s a lot in there. After all, every drama queen know
 
 <div align="center">
   
-### 💫 "Code is poetry, and mine rhymes with fabulous"
+### 💫 "Code is poetry, and I write in colours."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amerique82&color=ff69b4&style=flat-square&label=Profile+Admirers)
 
