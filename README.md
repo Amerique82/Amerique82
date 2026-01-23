@@ -42,7 +42,7 @@ Dive into my GitHub! There’s a lot in there. After all, every drama queen know
 
 - 💌 **Blog**: [https://www.americabernal.com/]
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/americabernal/]
-- ☕ **Buy me a coffee**: Because we run on caffeine and compliments: https://buymeacoffee.com/picturinglife
+- ☕ **Buy me a coffee**: Because we run on caffeine and compliments: [https://buymeacoffee.com/picturinglife](https://buymeacoffee.com/america.bh)
 
 ---
 
