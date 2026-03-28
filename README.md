@@ -24,7 +24,7 @@ const amerique = {
 
 ## Featured Projects
 
-Dive into my GitHub! There’s a lot in there. After all, every drama queen knows how to make an entrance 🎭
+Dive into my GitHub!
 
 
 ## My Vibe
@@ -32,9 +32,9 @@ Dive into my GitHub! There’s a lot in there. After all, every drama queen know
 ```
 ┌─────────────────────────────────────┐
 │  Coffee  ████████████████░░  95%   │
-│  Chaos   ███████████████░░░  88%   │
-│  Code    ████████████░░░░░░  75%   │
-│  Drama   ████████████████████ 100% │
+│  Ideas   █████████████████░  98%   │
+│  Code    ██████████████░░░░  80%   │
+│  Strategy █████████████████ 100% │
 └─────────────────────────────────────┘
 ```
 
