@@ -40,9 +40,9 @@ Dive into my GitHub!
 
 ## 📱 Let's Connect
 
-- 💌 **Blog**: [https://www.americabernal.com/]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/americabernal/]
-- ☕ **Buy me a coffee**: Because we run on caffeine and compliments: [https://buymeacoffee.com/picturinglife](https://buymeacoffee.com/america.bh)
+- **Blog**: [https://www.americabernal.com/]
+- **LinkedIn**: [https://www.linkedin.com/in/americabernal/]
+- **Buy me a coffee**: Because we run on caffeine and compliments: [https://buymeacoffee.com/picturinglife](https://buymeacoffee.com/america.bh)
 
 ---
 
