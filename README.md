@@ -25,9 +25,6 @@ const amerique = {
 };
 ```
 
-## Featured Projects
-Dive into my GitHub!
-
 ## My Vibe
 
 ```
