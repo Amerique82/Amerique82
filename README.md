@@ -36,13 +36,6 @@ const amerique = {
 └─────────────────────────────────────┘
 ```
 
-## Let's Connect
-- **Blog**: [https://www.americabernal.com/]
-- **LinkedIn**: [https://www.linkedin.com/in/americabernal/]
-- **Buy me a coffee**: Because we run on caffeine and compliments: [https://buymeacoffee.com/america.bh]
-
----
-
 <div align="center">
   
 ### "Code is poetry, and I write in colours."
