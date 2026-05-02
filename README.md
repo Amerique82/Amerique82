@@ -1,7 +1,7 @@
 # 🌺 Aloha!
 <div align="center">
   
-### Geek • Creative • Blogger • Drama Queen
+### Traveller • Geek • Creative • Blogger • Drama Queen
 *Living life in beta and designing experiences that actually work.*
 </div>
 
